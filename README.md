@@ -16,3 +16,4 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### .gitignore
 All the data files added to .gitignore
+Readme file updated
