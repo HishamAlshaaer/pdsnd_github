@@ -1,5 +1,5 @@
 import time
-import pandas as pd
+import pandas as pd # pandas used
 import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
@@ -83,6 +83,7 @@ def station_stats(df):
     print('-'*40)
 
 
+    # trip duration function starts
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
